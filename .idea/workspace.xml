@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="86ca0b0c-1d36-4dea-9698-ee3bb6d2e44e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-20-planes.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-11-causal_rl.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-11-causal_rl.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600199604133</updated>
       <workItem from="1600199605778" duration="467000" />
-      <workItem from="1600200141770" duration="980000" />
+      <workItem from="1600200141770" duration="1265000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600199669281</created>
@@ -77,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600201026457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="causal rl">
+      <created>1600201283528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600201283528</updated>
+    </task>
+    <task id="LOCAL-00006" summary="causal rl">
+      <created>1600201325018</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600201325018</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,13 +102,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="causal rl" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="161" key="CommitChangelistDialog2" timestamp="1600201283391">
+    <state x="471" y="161" key="CommitChangelistDialog2" timestamp="1600201324903">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="471" y="161" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1600201283391" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1600201284651">
+    <state x="471" y="161" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1600201324903" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1600201326122">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1600201284651" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1600201326122" />
   </component>
 </project>
