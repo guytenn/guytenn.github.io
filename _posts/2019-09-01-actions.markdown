@@ -1,6 +1,6 @@
 ---
 title:  "The Natural Language of Actions"
-subtitle: "Learning action embeddings for Reinforcement Learning"
+subtitle: "Action embeddings for Reinforcement Learning"
 author: "Guy Tennenholtz"
 avatar: "img/authors/wferr.png"
 image: "img/actions.jpg"
