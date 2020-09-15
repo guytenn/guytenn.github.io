@@ -1,13 +1,14 @@
 ---
-title:  "Causal Reinforcement Learning"
+title:  "Causal Inference + RL"
 subtitle: "Why is Causal Inference Important for Reinforcement Learning?"
 author: "Guy Tennenholtz, Shie Mannor and Uri Shalit"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/signs.jpeg"
 date:   2020-03-11 12:12:12
 ---
 
 ### Why is Causal Inference Important for Reinforcement Learning?
+
 There has been growing interest relating Causal Inference (CI) to Reinforcement Learning (RL). While there are some great achievements in solving high dimensional RL problems, research on the intersection of RL and CI is still in its diapers. What makes these problems hard, and how do they relate to RL? In this blog we’ll give our view.
 
 If you’re new to Causal Inference, this blog post is a great place to start. If you want to dive even deeper, check out one of Jeuda Pearl’s books on Causal Inference.
