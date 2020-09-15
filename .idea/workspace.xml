@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86ca0b0c-1d36-4dea-9698-ee3bb6d2e44e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-21-city-nights.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-09-01-actions.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-22-what-time.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-23-night-sky.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-24-i-scream.markdown" beforeDir="false" />
-    </list>
+    <list default="true" id="86ca0b0c-1d36-4dea-9698-ee3bb6d2e44e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600199604133</updated>
       <workItem from="1600199605778" duration="467000" />
-      <workItem from="1600200141770" duration="2169000" />
+      <workItem from="1600200141770" duration="2419000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600199669281</created>
@@ -114,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600202160209</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="actions">
+      <created>1600202620667</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600202620667</updated>
+    </task>
+    <task id="LOCAL-00011" summary="actions">
+      <created>1600202753269</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600202753269</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,16 +132,17 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="twitter and linkedin" />
     <MESSAGE value="causal rl" />
-    <option name="LAST_COMMIT_MESSAGE" value="causal rl" />
+    <MESSAGE value="actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="actions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="161" key="CommitChangelistDialog2" timestamp="1600202620534">
+    <state x="471" y="161" key="CommitChangelistDialog2" timestamp="1600202753129">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="471" y="161" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1600202620534" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1600202622101">
+    <state x="471" y="161" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1600202753129" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1600202754201">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1600202622101" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1600202754201" />
   </component>
 </project>
