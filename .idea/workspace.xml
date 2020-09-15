@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="86ca0b0c-1d36-4dea-9698-ee3bb6d2e44e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/f.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600199604133</updated>
       <workItem from="1600199605778" duration="467000" />
-      <workItem from="1600200141770" duration="2710000" />
+      <workItem from="1600200141770" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600199669281</created>
@@ -132,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600202990642</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="website description">
+      <created>1600203059209</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600203059209</updated>
+    </task>
+    <task id="LOCAL-00014" summary="actions">
+      <created>1600203149333</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600203149333</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,18 +161,19 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="twitter and linkedin" />
     <MESSAGE value="causal rl" />
-    <MESSAGE value="actions" />
     <MESSAGE value="image captions" />
-    <option name="LAST_COMMIT_MESSAGE" value="image captions" />
+    <MESSAGE value="website description" />
+    <MESSAGE value="actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="actions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="161" key="CommitChangelistDialog2" timestamp="1600203059049">
+    <state x="471" y="161" key="CommitChangelistDialog2" timestamp="1600203149203">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="471" y="161" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1600203059049" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1600203060383">
+    <state x="471" y="161" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1600203149203" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1600203150448">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1600203060383" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1600203150448" />
   </component>
 </project>
