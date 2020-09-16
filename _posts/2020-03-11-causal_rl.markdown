@@ -4,7 +4,6 @@ subtitle: "Why is Causal Inference Important for Reinforcement Learning?"
 author: "Guy Tennenholtz, Shie Mannor and Uri Shalit"
 avatar: "img/authors/wferr.png"
 image: "img/signs.jpg"
-big_image: "img/signs_big.jpg"
 date:   2020-03-11 12:12:12
 ---
 
