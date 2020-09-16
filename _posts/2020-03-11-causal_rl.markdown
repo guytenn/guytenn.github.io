@@ -28,4 +28,4 @@ The use of off-policy offline data in RL is usually inefficient, making the prob
 
 So hopefully you’re convinced off-policy offline RL is important and hard. Let’s make it a little bit harder. We already said that we don’t know the behavioral policy that generated the data. But in fact, we don’t even know the behavioral agent’s full state of information. This means that our data does not necessarily hold all observations that were the cause of the behavioral agent’s choices. These are also known as unobserved confounders in the CI literature. Mathematically, the behavior policy may be a mapping from states to actions, but in our data we only get to see noisy observations of these states. For example, the age or sex of a patient may be a decisive factor in determining how to treat this patient. Such information may not be revealed to the us.
 
-<img src="img/signs.jpg" width="30" height="30", alt=""/>
+<img src="{{"img/signs.jpg"}}" width="30" height="30", alt=""/>
